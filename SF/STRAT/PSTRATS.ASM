@@ -30,6 +30,8 @@
 ;*		Giles Goddard.      				                               *
 ;*                                                                         *
 ;***************************************************************************
+;fuzzy wuzzy wuz a bear, bear was fuzzy wuzzy, fuzzy wuzzy lost is hair so he
+;wasn't fuzzy wuz he? . <- <- Dick 'ed. 1992 
 
 	incpublics	EXT\pstrats.ext
 

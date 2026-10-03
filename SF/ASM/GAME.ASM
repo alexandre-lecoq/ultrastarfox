@@ -61,7 +61,10 @@ getview_l
 
 
 ;***************************************************************
-; "hacks"
+;* I'M SORRY BUT THESE ARE 2 VERY BIG HACKS, BECAUSE I DON'T WANT
+;* TO FUCK WITH PETE'S CODE. (Giles) 
+
+
 
 ;* JUST X ROTATE VIEW POS.
 	a16
